@@ -29,13 +29,4 @@
     <br />
 
 
-
-# 📊 GitHub Stats:
-<p align="left">
-<a href="https://github.com/syaddadraihanputra">
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syaddadraihanputra&layout=compact&langs_count=8&theme=buefy"/>
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syaddadraihanputra&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
 ---
